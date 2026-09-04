@@ -54,3 +54,6 @@ PC -> 8.8.8.8
 Packet Tracer project
 
 Project topology and configuration screenshot
+## Project Topology
+
+![Project topology](project-overview.png)
