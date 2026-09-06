@@ -21,6 +21,7 @@ This project is currently in progress.
 Project 3 — Active Directory & Windows Security
 
 Windows Server 2022 and Windows 11 lab covering Active Directory, Group Policy, security auditing, Windows Firewall, user/security groups, and workstation hardening.
+
 [View Project 3](./Project-3-Active-Directory-Windows-Security)
 
 
