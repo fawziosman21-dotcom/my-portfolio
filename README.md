@@ -9,7 +9,6 @@ A Cisco Packet Tracer lab covering VLANs, inter-VLAN routing, DHCP, Cisco ASA fi
 [View Project 1](./Project-1-Enterprise-Network-Infrastructure)
 
 
-
 Project 2 — Splunk SIEM
 
 Splunk log analysis and security monitoring lab.
@@ -17,13 +16,11 @@ Splunk log analysis and security monitoring lab.
 This project is currently in progress.
 
 
-
 Project 3 — Active Directory & Windows Security
 
 Windows Server 2022 and Windows 11 lab covering Active Directory, Group Policy, security auditing, Windows Firewall, user/security groups, and workstation hardening.
 
 [View Project 3](./Project-3-Active-Directory-Windows-Security)
-
 
 
 Skills
