@@ -15,6 +15,8 @@ Splunk log analysis and security monitoring lab.
 
 This project is currently in progress.
 
+[View Project 2](./Project-2-Splunk-SIEM)
+
 
 Project 3 — Active Directory & Windows Security
 
