@@ -13,8 +13,6 @@ Project 2 — Splunk SIEM
 
 Splunk log analysis and security monitoring lab.
 
-This project is currently in progress.
-
 [View Project 2](./Project-2-Splunk-SIEM)
 
 
